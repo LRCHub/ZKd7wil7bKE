@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "KidsRoomMan",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-03-08T09:36:58.194834Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KidsRoomMan",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_KidsRoomMan_ピーナッツくん.txt"
+    }
+  ]
+}
